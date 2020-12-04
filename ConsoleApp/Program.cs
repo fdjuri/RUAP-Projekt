@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main()
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Filipa Đuričkovića (JMBAG: 0165071216)");
+            Console.WriteLine("Pozdrav iz aplikacije od Filipa Đuričkovića");
         }
     }
 }
